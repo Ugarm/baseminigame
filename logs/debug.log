@@ -1,12 +1,5 @@
-2024-11-20 01:06:23 [main] DEBUG org.ugarm.zupbagarre.Main - looooool
-2024-11-20 01:06:23 [main] INFO  org.ugarm.zupbagarre.characters.Character - Character built
-2024-11-20 01:06:23 [main] INFO  org.ugarm.zupbagarre.characters.Character - Character built
-2024-11-20 01:06:23 [main] DEBUG org.ugarm.zupbagarre.Game - Created matchup successfully.
-2024-11-20 01:06:23 [main] DEBUG org.ugarm.zupbagarre.Game - Player stats set successfully.
-2024-11-20 01:06:40 [main] DEBUG org.ugarm.zupbagarre.Game - Game ended normally.
-2024-11-20 01:07:27 [main] DEBUG org.ugarm.zupbagarre.Main - looooool
-2024-11-20 01:07:27 [main] INFO  org.ugarm.zupbagarre.characters.Character - Character GIGA BANGALAXbuilt
-2024-11-20 01:07:27 [main] INFO  org.ugarm.zupbagarre.characters.Character - Character Botbuilt
-2024-11-20 01:07:27 [main] DEBUG org.ugarm.zupbagarre.Game - Created matchup successfully.
-2024-11-20 01:07:27 [main] DEBUG org.ugarm.zupbagarre.Game - Player stats set successfully.
-2024-11-20 01:07:29 [main] DEBUG org.ugarm.zupbagarre.Game - Game ended normally.
+2024-11-20 01:15:31 [main] INFO  org.ugarm.zupbagarre.characters.Character - Character GIGA BANGALAX built
+2024-11-20 01:15:31 [main] INFO  org.ugarm.zupbagarre.characters.Character - Character Bot built
+2024-11-20 01:15:31 [main] DEBUG org.ugarm.zupbagarre.Game - Created matchup successfully.
+2024-11-20 01:15:31 [main] DEBUG org.ugarm.zupbagarre.Game - Player stats set successfully.
+2024-11-20 01:15:33 [main] DEBUG org.ugarm.zupbagarre.Game - Game ended normally.
